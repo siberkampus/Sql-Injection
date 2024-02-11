@@ -1,1 +1,2 @@
-# Sql-Injection 
+# Detaylı SQL Injection
+Bu kitap, temel SQL komutlarını detaylı bir şekilde ele almanın yanı sıra, siber güvenlik perspektifinden SQL enjeksiyonu konusuna da odaklanarak okuyuculara kapsamlı bir bilgi sunmayı amaçlamaktadır. SQL'in temel işlevlerini ayrıntılı örnekler ile öğreneceksiniz. Umarım bu kitap, SQL ile ilgili temel yeteneklerinizi güçlendirmenize ve aynı zamanda siber güvenlik  konusundaki farkındalığınızı artırmanıza katkı sağlar. Türk Siber Birliği Üyelerine Selamlarımızla
